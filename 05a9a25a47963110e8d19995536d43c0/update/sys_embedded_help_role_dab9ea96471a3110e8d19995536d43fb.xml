@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_813449_devnow.developer" name="x_813449_devnow.developer">5eb9ea96471a3110e8d19995536d43fa</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-06 16:45:40</sys_created_on>
+        <sys_id>dab9ea96471a3110e8d19995536d43fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5eb9ea96471a3110e8d19995536d43fa</sys_name>
+        <sys_package display_value="devNow" source="x_813449_devnow">05a9a25a47963110e8d19995536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="devNow">05a9a25a47963110e8d19995536d43c0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_dab9ea96471a3110e8d19995536d43fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-06 16:45:40</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
